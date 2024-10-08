@@ -3,7 +3,7 @@ name: Android APK Build
 on:
   push:
     branches:
-      - main  # Adjust this if you're using a different branch
+      - main
   pull_request:
 
 jobs:
@@ -39,17 +39,17 @@ jobs:
         echo "ANDROID_HOME=$HOME/.android" >> $GITHUB_ENV
         echo "PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH" >> $GITHUB_ENV
 
+    - name: Accept Licenses and Install SDK Components
+      run: |
+        source $GITHUB_ENV
+        yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses
+        $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager "platform-tools" "platforms;android-27" "build-tools;27.0.3" "extras;google;m2repository" "extras;android;m2repository"
+
     - name: Verify Installation
       run: |
         source $GITHUB_ENV
         echo "Current PATH: $PATH"
         ls -l $ANDROID_HOME/cmdline-tools/latest/bin/
-
-    - name: Accept Licenses and Install SDK Components
-      run: |
-        source $GITHUB_ENV
-        yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses
-        $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager "platform-tools" "platforms;android-30" "build-tools;30.0.3" "extras;google;m2repository" "extras;android;m2repository"
 
     - name: Install dependencies from requirements.txt
       run: |
