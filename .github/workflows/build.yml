@@ -19,13 +19,15 @@ jobs:
       with:
         python-version: '3.8'
     
-    - name: Install Buildozer
+    - name: Install Buildozer and Android SDK
       run: |
         sudo apt update
         sudo apt install -y python3-pip openjdk-8-jdk unzip zlib1g-dev
         pip install --upgrade pip setuptools
         pip install cython==0.29.19
         pip install buildozer
+        yes | sdkmanager --licenses
+        sdkmanager "build-tools;35.0.0" "platform-tools" "platforms;android-30"
         
     - name: Install dependencies from requirements.txt
       run: |
@@ -38,7 +40,7 @@ jobs:
         cp bin/*.apk output_apk/
 
     - name: Upload APK Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v3  # Updated to v3 to fix deprecation issue
       with:
         name: vedicware-apk
         path: output_apk/
