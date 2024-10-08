@@ -1,68 +1,30 @@
-name: Android APK Build
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-
+name: Build APK
+on: [push]
 jobs:
-  build:
+  build-android:
+    name: Build for Android
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
-      
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v3
-      with:
-        python-version: '3.8'
-    
-    - name: Install Buildozer and Dependencies
-      run: |
-        sudo apt update
-        sudo apt install -y python3-pip openjdk-8-jdk unzip zlib1g-dev wget
-        pip install --upgrade pip setuptools
-        pip install cython==0.29.19
-        pip install buildozer
+      - name: Checkout
+        uses: actions/checkout@v2
 
-    - name: Install Android SDK Command Line Tools
-      run: |
-        mkdir -p $HOME/.android/cmdline-tools
-        wget https://dl.google.com/android/repository/commandlinetools-linux-9477386_latest.zip
-        unzip commandlinetools-linux-9477386_latest.zip -d $HOME/.android/cmdline-tools/
-        mv $HOME/.android/cmdline-tools/cmdline-tools $HOME/.android/cmdline-tools/latest
-        rm commandlinetools-linux-9477386_latest.zip
-        
-        # Set environment variables
-        echo "ANDROID_HOME=$HOME/.android" >> $GITHUB_ENV
-        echo "PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH" >> $GITHUB_ENV
+      - name: Buildozer dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y git zip unzip python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev automake
+          pip install --user --upgrade Cython virtualenv
+          pip install --user --upgrade buildozer
+          echo 'export PATH=$PATH:~/.local/bin/' >> ~/.bashrc
 
-    - name: Accept Licenses and Install SDK Components
-      run: |
-        source $GITHUB_ENV
-        yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses
-        $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager "platform-tools" "platforms;android-27" "build-tools;27.0.3" "extras;google;m2repository" "extras;android;m2repository"
+      - name: Handle Java path
+        run: |
+          export JAVA_HOME=/usr/lib/jvm/temurin-17-jdk-amd64
+          sudo update-java-alternatives --set ${JAVA_HOME}
+          export PATH=$JAVA_HOME/bin:$PATH
+          yes | buildozer -v android debug
 
-    - name: Verify Installation
-      run: |
-        source $GITHUB_ENV
-        echo "Current PATH: $PATH"
-        ls -l $ANDROID_HOME/cmdline-tools/latest/bin/
-
-    - name: Install dependencies from requirements.txt
-      run: |
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-    - name: Build APK
-      run: |
-        buildozer android debug
-        mkdir -p output_apk
-        cp bin/*.apk output_apk/
-
-    - name: Upload APK Artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: vedicware-apk
-        path: output_apk/
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: package
+          path: bin/*.apk
