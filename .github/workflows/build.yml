@@ -3,7 +3,7 @@ name: Android APK Build
 on:
   push:
     branches:
-      - main  # Adjust this if you're using a different branch
+      - main
   pull_request:
 
 jobs:
@@ -27,7 +27,7 @@ jobs:
         pip install cython==0.29.19
         pip install buildozer
 
-        # Install Android SDK Command Line Tools
+        # Download Android SDK Command Line Tools
         mkdir -p $HOME/Android/Sdk/cmdline-tools
         cd $HOME/Android/Sdk/cmdline-tools
         wget https://dl.google.com/android/repository/commandlinetools-linux-9477386_latest.zip -O cmdline-tools.zip
