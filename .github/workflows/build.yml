@@ -22,22 +22,24 @@ jobs:
     - name: Install Buildozer
       run: |
         sudo apt update
-        sudo apt install -y python3-pip openjdk-8-jdk unzip zlib1g-dev
+        sudo apt install -y python3-pip openjdk-8-jdk unzip zlib1g-dev wget
         pip install --upgrade pip setuptools
         pip install cython==0.29.19
         pip install buildozer
         
     - name: Install Android SDK Command Line Tools
       run: |
-        mkdir -p $HOME/.android/cmdline-tools
-        mkdir -p $HOME/.android/licenses
+        mkdir -p $HOME/.android/cmdline-tools/latest
         wget https://dl.google.com/android/repository/commandlinetools-linux-9477386_latest.zip
-        unzip commandlinetools-linux-9477386_latest.zip -d $HOME/.android/cmdline-tools
+        unzip commandlinetools-linux-9477386_latest.zip -d $HOME/.android/cmdline-tools/latest
         export ANDROID_HOME=$HOME/.android
-        export PATH=$ANDROID_HOME/cmdline-tools/bin:$PATH
+        export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
+        echo "export ANDROID_HOME=$HOME/.android" >> $GITHUB_ENV
+        echo "export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH" >> $GITHUB_ENV
         
-    - name: Accept Licenses
+    - name: Accept Licenses and Install SDK Components
       run: |
+        source $GITHUB_ENV
         yes | sdkmanager --licenses
         sdkmanager "platform-tools" "platforms;android-30" "build-tools;30.0.3" "extras;google;m2repository" "extras;android;m2repository"
 
