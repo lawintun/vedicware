@@ -1,0 +1,44 @@
+name: Android APK Build
+
+on:
+  push:
+    branches:
+      - main  # Adjust this if you're using a different branch
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    
+    - name: Install Buildozer
+      run: |
+        sudo apt update
+        sudo apt install -y python3-pip openjdk-8-jdk unzip zlib1g-dev
+        pip install --upgrade pip setuptools
+        pip install cython==0.29.19
+        pip install buildozer
+        
+    - name: Install dependencies from requirements.txt
+      run: |
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        
+    - name: Build APK
+      run: |
+        buildozer android debug
+        mkdir -p output_apk
+        cp bin/*.apk output_apk/
+
+    - name: Upload APK Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: vedicware-apk
+        path: output_apk/
