@@ -13,9 +13,9 @@ from Model.vedicmodel import VedicModel,VimshottariModel,GanitaModel#integrating
 
 class Model:
 	def __init__(self,**kwargs):
-		self._DB = "/vedicware/Model/Database/User_DB"
-		self._db = "/vedicware/Model/Database" #andriod os
-		self.viewaidpath = "/vedicware/View"
+		self._DB = "Model/Database/User_DB"
+		self._db = "Model/Database" #andriod os
+		self.viewaidpath = "View"
 		self._default_name = "May Pyae Sone Aung"
 		self._default_dob = [9 , 5 , 1996 ]
 		self._default_tob = ["+6.5", "09" , "09" , "00", "AM"]
