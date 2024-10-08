@@ -9,20 +9,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
-      
+
     - name: Set up Python 3.8
       uses: actions/setup-python@v3
       with:
         python-version: '3.8'
-    
+
     - name: Install Buildozer and Android SDK
       run: |
         sudo apt update
-        sudo apt install -y python3-pip unzip zlib1g-dev wget
+        sudo apt install -y python3-pip unzip zlib1g-dev wget openjdk-11-jdk
         pip install --upgrade pip setuptools
         pip install cython==0.29.19
         pip install buildozer
@@ -36,14 +36,14 @@ jobs:
 
         # Move the extracted folder into the correct location
         mv cmdline-tools/cmdline-tools $HOME/Android/Sdk/cmdline-tools/latest
-        
+
         # Set Android SDK paths
         export ANDROID_SDK_ROOT=$HOME/Android/Sdk
         export PATH=$ANDROID_SDK_ROOT/cmdline-tools/latest/bin:$PATH
         export PATH=$ANDROID_SDK_ROOT/platform-tools:$PATH
 
         # Accept licenses automatically
-        yes | $ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager --licenses
+        yes | $ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager --licenses || true
 
         # Install required build tools and platform tools
         $ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager "build-tools;35.0.0" "platform-tools" "platforms;android-30"
@@ -51,7 +51,7 @@ jobs:
     - name: Install dependencies from requirements.txt
       run: |
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        
+
     - name: Build APK
       run: |
         buildozer android debug
@@ -59,7 +59,7 @@ jobs:
         cp bin/*.apk output_apk/
 
     - name: Upload APK Artifact
-      uses: actions/upload-artifact@v3  # Updated to v3 to fix deprecation issue
+      uses: actions/upload-artifact@v3
       with:
         name: vedicware-apk
         path: output_apk/
