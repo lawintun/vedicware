@@ -42,10 +42,10 @@ jobs:
         export PATH=$ANDROID_SDK_ROOT/cmdline-tools/latest/bin:$PATH
         export PATH=$ANDROID_SDK_ROOT/platform-tools:$PATH
         
-        # Install SDK tools and accept licenses
-        yes | sdkmanager --sdk_root=$ANDROID_SDK_ROOT --install "build-tools;35.0.0" "platform-tools" "platforms;android-30"
+        # Accept licenses and install SDK tools
         yes | sdkmanager --licenses
-        
+        yes | sdkmanager --sdk_root=$ANDROID_SDK_ROOT --install "build-tools;35.0.0" "platform-tools" "platforms;android-30"
+
     - name: Install dependencies from requirements.txt
       run: |
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
