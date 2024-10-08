@@ -1,0 +1,62 @@
+<ViewNav>:
+    calc_button : calc_button
+    interpret_button : interpret_button
+    analytic_button : analytic_button
+    GridLayout:
+        rows: 2
+        width: root.width
+        height: 280
+        padding: [160, 0]
+        spacing: [100, 10]        
+
+        MDSegmentedButton:
+            on_mark:
+            id: sgb
+            type: "large"
+            size_hint: None, None 
+
+            MDSegmentedButtonItem:
+                id : calc_button
+                icon: "pencil-outline"
+                size_hint: None, None
+                disabled: False
+                on_release: root.Controller.switch_to_calculationscreen()
+                
+            MDSegmentedButtonItem:
+                id : interpret_button
+                icon: "book-open-page-variant"
+                size_hint: None, None
+                disabled: False
+                on_release : root.Controller.switch_to_interpretscreen()                
+
+            MDSegmentedButtonItem:
+                id : analytic_button
+                icon: "chart-line"
+                disabled: False
+                on_release: root.Controller.switch_to_analyticscreen()
+                
+
+            MDSegmentedButtonItem:         
+                icon: "dots-vertical"
+                theme_bg_color : "Custom"
+                disabled: False  
+
+        
+        GridLayout:
+            rows: 1
+            padding:[250,20]
+            spacing:[30,10]
+            MDIconButton:
+                icon: "phone-message-outline"
+                theme_bg_color : "Custom"
+                theme_text_color : "Custom"
+                md_bg_color : 27/255,133/255,1,0.7
+                text_color : 1,1,1,1
+                on_release: root.Controller.switch_to_dial()
+            MDIconButton:
+                icon: "exit-to-app"
+                theme_bg_color: "Custom"
+                theme_text_color : "Custom"
+                md_bg_color: 27/255,133/255,1,0.7
+                text_color : 1,1,1,1                
+                             

@@ -1,0 +1,1983 @@
+{
+    "1": [
+        "Magway Region",
+        "Gangaw Township",
+        "94.1328898\u00b0E",
+        "22.1769278\u00b0N"
+    ],
+    "2": [
+        "Magway Region",
+        "Tilin Township ",
+        "94.0941855\u00b0E",
+        "21.6959068\u00b0N"
+    ],
+    "3": [
+        "Magway Region",
+        "Saw Township",
+        "94.1558364\u00b0E",
+        "21.1523995\u00b0N"
+    ],
+    "4": [
+        "Magway Region",
+        "Magway Township",
+        "94.9213518\u00b0E",
+        "20.1491458\u00b0N"
+    ],
+    "5": [
+        "Magway Region",
+        "Yenangyaung Township",
+        "94.872961\u00b0E",
+        "20.4608216\u00b0N"
+    ],
+    "6": [
+        "Magway Region",
+        "Chauk Township",
+        "94.8207795\u00b0E",
+        "20.8940473\u00b0N"
+    ],
+    "7": [
+        "Magway Region",
+        "Taungdwingyi Township",
+        "95.546135\u00b0E",
+        "20.001873\u00b0N"
+    ],
+    "8": [
+        "Magway Region",
+        "Myothit Township",
+        "95.4451482\u00b0E",
+        "20.2017408\u00b0N"
+    ],
+    "9": [
+        "Magway Region",
+        "Natmauk Township",
+        "95.399658\u00b0E",
+        "20.353386\u00b0N"
+    ],
+    "10": [
+        "Magway Region",
+        "Minbu Township",
+        "94.8767199\u00b0E",
+        "20.1837903\u00b0N"
+    ],
+    "11": [
+        "Magway Region",
+        "Pwintbyu Township",
+        "94.669334\u00b0E",
+        "20.363335\u00b0N"
+    ],
+    "12": [
+        "Magway Region",
+        "Ngape Township",
+        "94.4389247893344\u00b0E",
+        "19.955407649999998\u00b0N"
+    ],
+    "13": [
+        "Magway Region",
+        "Salin Township",
+        "94.659363\u00b0E",
+        "20.5772\u00b0N"
+    ],
+    "14": [
+        "Magway Region",
+        "Sidoktaya Township",
+        "94.2466664\u00b0E",
+        "20.4463888\u00b0N"
+    ],
+    "15": [
+        "Magway Region",
+        "Myaing Township",
+        "94.854317\u00b0E",
+        "21.61256\u00b0N"
+    ],
+    "16": [
+        "Magway Region",
+        "Pakokku Township",
+        "95.0944271\u00b0E",
+        "21.3343349\u00b0N"
+    ],
+    "17": [
+        "Magway Region",
+        "Pauk Township",
+        "94.473737\u00b0E",
+        "21.45215\u00b0N"
+    ],
+    "18": [
+        "Magway Region",
+        "Seikphyu Township ",
+        "94.792427\u00b0E",
+        "20.906509\u00b0N"
+    ],
+    "19": [
+        "Magway Region",
+        "Yesagyo Township",
+        "95.2487324\u00b0E",
+        "21.632949\u00b0N"
+    ],
+    "20": [
+        "Magway Region",
+        "Aunglan Township ",
+        "95.216667\u00b0E",
+        "19.366667\u00b0N"
+    ],
+    "21": [
+        "Magway Region",
+        "Kamma Township",
+        "95.09594\u00b0E",
+        "19.028971\u00b0N"
+    ],
+    "22": [
+        "Magway Region",
+        "Mindon Township ",
+        "94.731941\u00b0E",
+        "19.346293\u00b0N"
+    ],
+    "23": [
+        "Magway Region",
+        "Minhla Township ",
+        "95.0367\u00b0E",
+        "19.965587\u00b0N"
+    ],
+    "24": [
+        "Magway Region",
+        "Sinbaungwe Township ",
+        "95.166204\u00b0E",
+        "19.727261\u00b0N"
+    ],
+    "25": [
+        "Magway Region",
+        "Thayet Township",
+        "95.08391295997083\u00b0E",
+        "19.3751193\u00b0N"
+    ],
+    "26": [
+        "Mandalay Region",
+        "Kyaukse Township",
+        "96.135143\u00b0E",
+        "21.612715\u00b0N"
+    ],
+    "27": [
+        "Mandalay Region",
+        "Myittha Township",
+        "96.130859\u00b0E",
+        "21.424265\u00b0N"
+    ],
+    "28": [
+        "Mandalay Region",
+        "Sintgaing Township",
+        "96.13944926805729\u00b0E",
+        "21.74982655\u00b0N"
+    ],
+    "29": [
+        "Mandalay Region",
+        "Tada-U Township",
+        "95.9700599\u00b0E",
+        "21.8162339\u00b0N"
+    ],
+    "30": [
+        "Mandalay Region",
+        "Amarapura Township",
+        "96.049483\u00b0E",
+        "21.903139\u00b0N"
+    ],
+    "31": [
+        "Mandalay Region",
+        "Aungmyethazan Township",
+        "96.096861\u00b0E",
+        "21.993206\u00b0N"
+    ],
+    "32": [
+        "Mandalay Region",
+        "Chanayethazan Township",
+        "96.094599\u00b0E",
+        "21.97535\u00b0N"
+    ],
+    "33": [
+        "Mandalay Region",
+        "Chanmyathazi Township",
+        "96.095838\u00b0E",
+        "21.939404\u00b0N"
+    ],
+    "34": [
+        "Mandalay Region",
+        "Maha aung myae Township",
+        "96.0918\u00b0E",
+        "21.9558\u00b0N"
+    ],
+    "35": [
+        "Mandalay Region",
+        "Patheingyi Township",
+        "96.154303\u00b0E",
+        "22.012563\u00b0N"
+    ],
+    "36": [
+        "Mandalay Region",
+        "Pyigyidagun Township",
+        "96.104181\u00b0E",
+        "21.901964\u00b0N"
+    ],
+    "37": [
+        "Mandalay Region",
+        "Mahlaing Township",
+        "95.64698\u00b0E",
+        "21.098669\u00b0N"
+    ],
+    "38": [
+        "Mandalay Region",
+        "Meiktila Township",
+        "95.74961240412887\u00b0E",
+        "20.82828715\u00b0N"
+    ],
+    "39": [
+        "Mandalay Region",
+        "Thazi Township",
+        "96.0591951\u00b0E",
+        "20.8506295\u00b0N"
+    ],
+    "40": [
+        "Mandalay Region",
+        "Wundwin Township",
+        "96.030014\u00b0E",
+        "21.09691\u00b0N"
+    ],
+    "41": [
+        "Mandalay Region",
+        "Kyaukpadaung Township",
+        "95.1279364\u00b0E",
+        "20.8410724\u00b0N"
+    ],
+    "42": [
+        "Mandalay Region",
+        "Myingyan Township",
+        "95.3924129\u00b0E",
+        "21.4587531\u00b0N"
+    ],
+    "43": [
+        "Mandalay Region",
+        "Natogyi Township",
+        "95.73064381971119\u00b0E",
+        "21.459544899999997\u00b0N"
+    ],
+    "44": [
+        "Mandalay Region",
+        "Nganzun Township",
+        "95.6877173\u00b0E",
+        "21.898103\u00b0N"
+    ],
+    "45": [
+        "Mandalay Region",
+        "Thaungtha Township",
+        "95.445412\u00b0E",
+        "21.27603\u00b0N"
+    ],
+    "46": [
+        "Mandalay Region",
+        "Nyaung-U Township",
+        "94.9071683\u00b0E",
+        "21.1999599\u00b0N"
+    ],
+    "47": [
+        "Mandalay Region",
+        "Madaya Township",
+        "96.106392\u00b0E",
+        "22.21036\u00b0N"
+    ],
+    "48": [
+        "Mandalay Region",
+        "Mogok Township",
+        "96.43951377692126\u00b0E",
+        "22.90763075\u00b0N"
+    ],
+    "49": [
+        "Mandalay Region",
+        "Pyinoolwin Township",
+        "96.4667341\u00b0E",
+        "22.0331367\u00b0N"
+    ],
+    "50": [
+        "Mandalay Region",
+        "Singu Township",
+        "96.13884615608725\u00b0E",
+        "22.5519787\u00b0N"
+    ],
+    "51": [
+        "Mandalay Region",
+        "Thabeikkyin Township",
+        "96.0668223281875\u00b0E",
+        "23.19157735\u00b0N"
+    ],
+    "52": [
+        "Mandalay Region",
+        "Pyawbwe Township",
+        "96.0505821\u00b0E",
+        "20.5910458\u00b0N"
+    ],
+    "53": [
+        "Mandalay Region",
+        "Yamethin Township",
+        "96.1399956\u00b0E",
+        "20.4318725\u00b0N"
+    ],
+    "54": [
+        "Naypyidaw Union Territory",
+        "Lewe Township",
+        "96.110069\u00b0E",
+        "19.63467\u00b0N"
+    ],
+    "55": [
+        "Naypyidaw Union Territory",
+        "Pyinmana Township",
+        "96.46309598547339\u00b0E",
+        "19.6438823\u00b0N"
+    ],
+    "56": [
+        "Naypyidaw Union Territory",
+        "Tatkon Township",
+        "96.2019535\u00b0E",
+        "20.1288844\u00b0N"
+    ],
+    "57": [
+        "Naypyidaw Union Territory",
+        "Ottarathiri Township",
+        "96.043\u00b0E",
+        "19.891\u00b0N"
+    ],
+    "58": [
+        "Naypyidaw Union Territory",
+        "Dekkhinathiri Township",
+        "96.0670902\u00b0E",
+        "19.7190116\u00b0N"
+    ],
+    "59": [
+        "Naypyidaw Union Territory",
+        "Pobbathiri Township",
+        "96.183\u00b0E",
+        "19.806\u00b0N"
+    ],
+    "60": [
+        "Naypyidaw Union Territory",
+        "Zabuthiri Township",
+        "96.11187385976407\u00b0E",
+        "19.7504752\u00b0N"
+    ],
+    "61": [
+        "Naypyidaw Union Territory",
+        "Zeyathiri Township",
+        "96.2429864339883\u00b0E",
+        "19.881761750000003\u00b0N"
+    ],
+    "62": [
+        "Kayah State",
+        "Bawlakhe Township",
+        "97.3421041\u00b0E",
+        "19.1710509\u00b0N"
+    ],
+    "63": [
+        "Kayah State",
+        "Hpasawng Township",
+        "97.21942341558616\u00b0E",
+        "18.8524273\u00b0N"
+    ],
+    "64": [
+        "Kayah State",
+        "Mese Township",
+        "97.5431188409926\u00b0E",
+        "18.7451515\u00b0N"
+    ],
+    "65": [
+        "Kayah State",
+        "Loikaw Township",
+        "97.2094441\u00b0E",
+        "19.674167\u00b0N"
+    ],
+    "66": [
+        "Kayah State",
+        "Demoso Township",
+        "97.2828233062694\u00b0E",
+        "19.45763175\u00b0N"
+    ],
+    "67": [
+        "Kayah State",
+        "Hpruso Township",
+        "97.1305041\u00b0E",
+        "19.4177837\u00b0N"
+    ],
+    "68": [
+        "Kayah State",
+        "Shadaw Township",
+        "97.520729\u00b0E",
+        "19.631742\u00b0N"
+    ],
+    "69": [
+        "East Shan State",
+        "Kengtung Township",
+        "99.64263390855811\u00b0E",
+        "21.26274475\u00b0N"
+    ],
+    "70": [
+        "East Shan State",
+        "Mong Khet Township",
+        "99.31697918975037\u00b0E",
+        "21.693025900000002\u00b0N"
+    ],
+    "71": [
+        "East Shan State",
+        "Mong Yang Township",
+        "99.6500464231055\u00b0E",
+        "21.835612400000002\u00b0N"
+    ],
+    "72": [
+        "East Shan State",
+        "Mong Hsat Township",
+        "99.256089\u00b0E",
+        "20.535314\u00b0N"
+    ],
+    "73": [
+        "East Shan State",
+        "Mong Ping Township",
+        "99.02723699343017\u00b0E",
+        "21.118442350000002\u00b0N"
+    ],
+    "74": [
+        "East Shan State",
+        "Mong Tong Township",
+        "98.95660983148306\u00b0E",
+        "20.25441525\u00b0N"
+    ],
+    "75": [
+        "East Shan State",
+        "Mong Hpayak Township",
+        "99.98361071469927\u00b0E",
+        "21.00412185\u00b0N"
+    ],
+    "76": [
+        "East Shan State",
+        "Mong Yawng Township",
+        "100.5629429369359\u00b0E",
+        "21.3708325\u00b0N"
+    ],
+    "77": [
+        "East Shan State",
+        "Tachileik Township",
+        "99.8842143\u00b0E",
+        "20.4490789\u00b0N"
+    ],
+    "78": [
+        "East Shan State",
+        "Kyaing Lap (Kenglap)",
+        "100.6444\u00b0E",
+        "20.8818\u00b0N"
+    ],
+    "79": [
+        "North Shan State",
+        "Kunlong Township",
+        "98.68464524473993\u00b0E",
+        "23.45561205\u00b0N"
+    ],
+    "80": [
+        "North Shan State",
+        "Hopang Township",
+        "98.75345\u00b0E",
+        "23.42512\u00b0N"
+    ],
+    "81": [
+        "North Shan State",
+        "Kyaukme Township",
+        "97.0357197\u00b0E",
+        "22.5436897\u00b0N"
+    ],
+    "82": [
+        "North Shan State",
+        "Nawnghkio Township",
+        "96.8037457\u00b0E",
+        "22.3301034\u00b0N"
+    ],
+    "83": [
+        "North Shan State",
+        "Hsipaw Township",
+        "97.4376797\u00b0E",
+        "22.5339084\u00b0N"
+    ],
+    "84": [
+        "North Shan State",
+        "Namtu Township",
+        "97.3980881\u00b0E",
+        "23.09574\u00b0N"
+    ],
+    "85": [
+        "North Shan State",
+        "Namhsan Township",
+        "97.20705503604887\u00b0E",
+        "22.94588725\u00b0N"
+    ],
+    "86": [
+        "North Shan State",
+        "Mongmit Township",
+        "96.6708673\u00b0E",
+        "23.1096256\u00b0N"
+    ],
+    "87": [
+        "North Shan State",
+        "Mabein Township",
+        "96.6273203\u00b0E",
+        "23.4713483\u00b0N"
+    ],
+    "88": [
+        "North Shan State",
+        "Mantong Township",
+        "97.1223834\u00b0E",
+        "23.2466707\u00b0N"
+    ],
+    "89": [
+        "North Shan State",
+        "Laukkaing Township",
+        "98.76740871414526\u00b0E",
+        "23.68948765\u00b0N"
+    ],
+    "90": [
+        "North Shan State",
+        "Lashio Township",
+        "97.75\u00b0E",
+        "22.933333\u00b0N"
+    ],
+    "91": [
+        "North Shan State",
+        "Hseni Township",
+        "98.13604604991531\u00b0E",
+        "23.2589046\u00b0N"
+    ],
+    "92": [
+        "North Shan State",
+        "Mongyai Township",
+        "98.039879\u00b0E",
+        "22.419462\u00b0N"
+    ],
+    "93": [
+        "North Shan State",
+        "Tangyan Township ",
+        "98.42465945876276\u00b0E",
+        "22.41137675\u00b0N"
+    ],
+    "94": [
+        "North Shan State",
+        "Mu Se Township",
+        "97.9012716\u00b0E",
+        "23.9978074\u00b0N"
+    ],
+    "95": [
+        "North Shan State",
+        "Namhkam Township",
+        "97.5661385568209\u00b0E",
+        "23.715186250000002\u00b0N"
+    ],
+    "96": [
+        "North Shan State",
+        "Kutkai Township",
+        "97.9384704\u00b0E",
+        "23.4593156\u00b0N"
+    ],
+    "97": [
+        "North Shan State",
+        "Hopang Township",
+        "98.75345\u00b0E",
+        "23.42512\u00b0N"
+    ],
+    "98": [
+        "North Shan State",
+        "Metman Township",
+        "98.7481\u00b0E",
+        "21.7208\u00b0N"
+    ],
+    "99": [
+        "North Shan State",
+        "Mongmit Township",
+        "96.6708673\u00b0E",
+        "23.1096256\u00b0N"
+    ],
+    "100": [
+        "South Shan State",
+        "Langkho Township",
+        "97.95935944042633\u00b0E",
+        "20.08689105\u00b0N"
+    ],
+    "101": [
+        "South Shan State",
+        "Mong Nai Township",
+        "97.8727339\u00b0E",
+        "20.509504\u00b0N"
+    ],
+    "102": [
+        "South Shan State",
+        "Mawkmai Township",
+        "97.57281943839239\u00b0E",
+        "20.09605965\u00b0N"
+    ],
+    "103": [
+        "South Shan State",
+        "Mong Pan Township",
+        "98.36578290609006\u00b0E",
+        "20.233580349999997\u00b0N"
+    ],
+    "104": [
+        "South Shan State",
+        "Loilen Township",
+        "97.5632946\u00b0E",
+        "20.9233242\u00b0N"
+    ],
+    "105": [
+        "South Shan State",
+        "Lai-Hka Township",
+        "97.6661138\u00b0E",
+        "21.272228\u00b0N"
+    ],
+    "106": [
+        "South Shan State",
+        "Nansang Township",
+        "97.85092585039908\u00b0E",
+        "20.83260345\u00b0N"
+    ],
+    "107": [
+        "South Shan State",
+        "Kunhing Township",
+        "98.4283692\u00b0E",
+        "21.3046935\u00b0N"
+    ],
+    "108": [
+        "South Shan State",
+        "Kyethi Township",
+        "97.820598\u00b0E",
+        "21.9286912\u00b0N"
+    ],
+    "109": [
+        "South Shan State",
+        "Mong Kung Township",
+        "97.5276791\u00b0E",
+        "21.6096491\u00b0N"
+    ],
+    "110": [
+        "South Shan State",
+        "Mong Hsu Township",
+        "98.3641488\u00b0E",
+        "21.9056166\u00b0N"
+    ],
+    "111": [
+        "South Shan State",
+        "Taunggyi Township",
+        "97.0904419032471\u00b0E",
+        "20.62528385\u00b0N"
+    ],
+    "112": [
+        "South Shan State",
+        "Nyaungshwe Township",
+        "96.90721525418596\u00b0E",
+        "20.3593344\u00b0N"
+    ],
+    "113": [
+        "South Shan State",
+        "Hopong Township",
+        "97.1723822\u00b0E",
+        "20.7946278\u00b0N"
+    ],
+    "114": [
+        "South Shan State",
+        "Hsi Hseng Township",
+        "97.252818\u00b0E",
+        "20.160643\u00b0N"
+    ],
+    "115": [
+        "South Shan State",
+        "Kalaw Township",
+        "96.77301822428328\u00b0E",
+        "20.7327088\u00b0N"
+    ],
+    "116": [
+        "South Shan State",
+        "Pingdaya Township",
+        "96.6665\u00b0E",
+        "20.9368\u00b0N"
+    ],
+    "117": [
+        "South Shan State",
+        "Ywangan Township",
+        "96.442291\u00b0E",
+        "21.162815\u00b0N"
+    ],
+    "118": [
+        "South Shan State",
+        "Lawksawk Township",
+        "96.867314\u00b0E",
+        "21.248103\u00b0N"
+    ],
+    "119": [
+        "South Shan State",
+        "Pinlaung Township",
+        "96.67366002656135\u00b0E",
+        "20.137476\u00b0N"
+    ],
+    "120": [
+        "South Shan State",
+        "Pekon Township",
+        "96.79529321249998\u00b0E",
+        "19.6445967\u00b0N"
+    ],
+    "121": [
+        "Ayeyarwady Region",
+        "Hinthada Township",
+        "95.4516\u00b0E",
+        "17.6470\u00b0N"
+    ],
+    "122": [
+        "Ayeyarwady Region",
+        "Zalun Township",
+        "98.1680378\u00b0E",
+        "14.1766298\u00b0N"
+    ],
+    "123": [
+        "Ayeyarwady Region",
+        "Laymyethna Township",
+        "94.9019434\u00b0E",
+        "21.16046405\u00b0N"
+    ],
+    "124": [
+        "Ayeyarwady Region",
+        "Myanaung Township",
+        "95.3207\u00b0E",
+        "18.2707\u00b0N"
+    ],
+    "125": [
+        "Ayeyarwady Region",
+        "Kyangin Township",
+        "95.2397\u00b0E",
+        "18.3351\u00b0N"
+    ],
+    "126": [
+        "Ayeyarwady Region",
+        "Ingapu Township",
+        "95.2711\u00b0E",
+        "17.8142\u00b0N"
+    ],
+    "127": [
+        "Ayeyarwady Region",
+        "Labutta Township",
+        "94.7562\u00b0E",
+        "16.1493\u00b0N"
+    ],
+    "128": [
+        "Ayeyarwady Region",
+        "Mawlamyinegyun Township",
+        "95.2606\u00b0E",
+        "16.3839\u00b0N"
+    ],
+    "129": [
+        "Ayeyarwady Region",
+        "Ma-ubin Township",
+        "95.6484\u00b0E",
+        "16.7261\u00b0N"
+    ],
+    "130": [
+        "Ayeyarwady Region",
+        "Pantanaw Township",
+        "95.4699\u00b0E",
+        "16.9837\u00b0N"
+    ],
+    "131": [
+        "Ayeyarwady Region",
+        "Nyaungdon Township",
+        "94.78714283523743\u00b0E",
+        "21.39325185\u00b0N"
+    ],
+    "132": [
+        "Ayeyarwady Region",
+        "Danuphyu Township",
+        "98.5075177\u00b0E",
+        "16.6883991\u00b0N"
+    ],
+    "133": [
+        "Ayeyarwady Region",
+        "Myaungmya Township",
+        "96.4535531\u00b0E",
+        "17.4671782\u00b0N"
+    ],
+    "134": [
+        "Ayeyarwady Region",
+        "Einme Township",
+        "95.1771\u00b0E",
+        "16.8913\u00b0N"
+    ],
+    "135": [
+        "Ayeyarwady Region",
+        "Wakema Township ",
+        "95.17824\u00b0E",
+        "16.60483\u00b0N"
+    ],
+    "136": [
+        "Ayeyarwady Region",
+        "Pathein Township",
+        "95.0640482\u00b0E",
+        "18.3921935\u00b0N"
+    ],
+    "137": [
+        "Ayeyarwady Region",
+        "Kangyidaunk Township",
+        "94.8975\u00b0E",
+        "16.9349\u00b0N"
+    ],
+    "138": [
+        "Ayeyarwady Region",
+        "Thabaung Township",
+        "95.258362\u00b0E",
+        "21.363033\u00b0N"
+    ],
+    "139": [
+        "Ayeyarwady Region",
+        "Ngapudaw Township",
+        "94.69207\u0b00E",
+        "16.54356\u0b00N"
+    ],
+    "140": [
+        "Ayeyarwady Region",
+        "Kyonpyaw Township",
+        "95.2684\u0b00E",
+        "17.2687\u0b00N"
+    ],
+    "141": [
+        "Ayeyarwady Region",
+        "Yekyi Township",
+        "95.1093\u0b00E",
+        "17.3406\u0b00N"
+    ],
+    "142": [
+        "Ayeyarwady Region",
+        "Kyaunggon Township",
+        "95.1849\u0b00E",
+        "17.0824\u0b00N"
+    ],
+    "143": [
+        "Ayeyarwady Region",
+        "Pyapon Township",
+        "95.67882\u0b00E",
+        "16.28543\u0b00N"
+    ],
+    "144": [
+        "Ayeyarwady Region",
+        "Bogale Township",
+        "95.4018\u0b00E",
+        "16.2864\u0b00N"
+    ],
+    "145": [
+        "Ayeyarwady Region",
+        "Kyaiklat Township",
+        "95.7221\u0b00E",
+        "16.4422\u0b00N"
+    ],
+    "146": [
+        "Ayeyarwady Region",
+        "Dedaye Township",
+        "95.8565\u0b00E",
+        "16.3125\u0b00N"
+    ],
+    "147": [
+        "Ayeyarwady Region",
+        "Kyonpyaw Township",
+        "95.1927\u0b00E",
+        "17.3031\u0b00N"
+    ],
+    "148": [
+        "Ayeyarwady Region",
+        "Myanaung Township",
+        "95.3207\u0b00E",
+        "18.2707\u0b00N"
+    ],
+    "149": [
+        "East Bago Region",
+        "Bago Township ",
+        "96.4005000103028\u00b0E",
+        "17.526400000000002\u00b0N"
+    ],
+    "150": [
+        "East Bago Region",
+        "Kawa Township",
+        "96.4603044\u00b0E",
+        "17.0891732\u00b0N"
+    ],
+    "151": [
+        "East Bago Region",
+        "Thanatpin Township",
+        "96.5786126\u00b0E",
+        "17.2932802\u00b0N"
+    ],
+    "152": [
+        "East Bago Region",
+        "Waw Township",
+        "96.6756871\u00b0E",
+        "17.4771259\u00b0N"
+    ],
+    "153": [
+        "East Bago Region",
+        "Daik-U Township",
+        "96.66821048089963\u00b0E",
+        "17.7992564\u00b0N"
+    ],
+    "154": [
+        "East Bago Region",
+        "Nyaunglebin Township",
+        "96.7259854\u00b0E",
+        "17.9532219\u00b0N"
+    ],
+    "155": [
+        "East Bago Region",
+        "Shwegyin Township",
+        "96.8781686\u00b0E",
+        "17.9230219\u00b0N"
+    ],
+    "156": [
+        "East Bago Region",
+        "Taungoo Township",
+        "96.4332782\u00b0E",
+        "18.9402101\u00b0N"
+    ],
+    "157": [
+        "East Bago Region",
+        "Oktwin Township",
+        "96.413628\u00b0E",
+        "18.832928\u00b0N"
+    ],
+    "158": [
+        "East Bago Region",
+        "Tantabin Township",
+        "96.4877525\u00b0E",
+        "18.842371\u00b0N"
+    ],
+    "159": [
+        "East Bago Region",
+        "Yedashe Township",
+        "96.342339\u00b0E",
+        "19.156925\u00b0N"
+    ],
+    "160": [
+        "East Bago Region",
+        "Pyu Township",
+        "93.551041\u00b0E",
+        "19.249821\u00b0N"
+    ],
+    "161": [
+        "East Bago Region",
+        "Kyauktaga Township",
+        "96.613907\u00b0E",
+        "18.158672\u00b0N"
+    ],
+    "162": [
+        "East Bago Region",
+        "Kyaukkyi Township",
+        "96.76947\u00b0E",
+        "18.32733\u00b0N"
+    ],
+    "163": [
+        "West Bago Ragion",
+        "Pyay Township",
+        "95.216667\u00b0E",
+        "18.816667\u00b0N"
+    ],
+    "164": [
+        "West Bago Ragion",
+        "Pauk Kaung Township",
+        "95.5490934\u00b0E",
+        "18.9087198\u00b0N"
+    ],
+    "165": [
+        "West Bago Ragion",
+        "Thegon Township",
+        "95.417206\u00b0E",
+        "18.646975\u00b0N"
+    ],
+    "166": [
+        "West Bago Ragion",
+        "Shwedaung Township",
+        "95.214043\u00b0E",
+        "18.705099\u00b0N"
+    ],
+    "167": [
+        "West Bago Ragion",
+        "Padaung Township",
+        "95.153526\u00b0E",
+        "18.717974\u00b0N"
+    ],
+    "168": [
+        "West Bago Ragion",
+        "Paungde Township",
+        "95.5071615\u00b0E",
+        "18.4928344\u00b0N"
+    ],
+    "169": [
+        "West Bago Ragion",
+        "Nattalin Township",
+        "95.5526552\u00b0E",
+        "18.4287288\u00b0N"
+    ],
+    "170": [
+        "West Bago Ragion",
+        "Zigon Township",
+        "95.6226683\u00b0E",
+        "18.336437\u00b0N"
+    ],
+    "171": [
+        "West Bago Ragion",
+        "Thayarwady Township",
+        "95.786285\u00b0E",
+        "17.654413\u00b0N"
+    ],
+    "172": [
+        "West Bago Ragion",
+        "Gyobingauk Township",
+        "95.6443229\u00b0E",
+        "18.2314748\u00b0N"
+    ],
+    "173": [
+        "West Bago Ragion",
+        "Letpadan Township",
+        "95.75\u00b0E",
+        "17.783333\u00b0N"
+    ],
+    "174": [
+        "West Bago Ragion",
+        "Minhla Township",
+        "95.0367\u00b0E",
+        "19.965587\u00b0N"
+    ],
+    "175": [
+        "West Bago Ragion",
+        "Monyo Township",
+        "95.511848\u00b0E",
+        "18.027185\u00b0N"
+    ],
+    "176": [
+        "West Bago Ragion",
+        "Okpho Township",
+        "95.671768\u00b0E",
+        "18.130222\u00b0N"
+    ],
+    "177": [
+        "Yangon Region",
+        "Botataung Township",
+        "96.1872\u00b0E",
+        "16.7635\u00b0N"
+    ],
+    "178": [
+        "Yangon Region",
+        "Dagon Seikkan Township",
+        "96.3587074\u00b0E",
+        "16.9433473\u00b0N"
+    ],
+    "179": [
+        "Yangon Region",
+        "East Dagon Township",
+        "96.3013\u0b00E",
+        "16.9333\u0b00N"
+    ],
+    "180": [
+        "Yangon Region",
+        "North Dagon Township",
+        "96.1898\u0b00E",
+        "16.8839\u0b00N"
+    ],
+    "181": [
+        "Yangon Region",
+        "North Okkalapa Township",
+        "96.1574885\u00b0E",
+        "16.9097007\u00b0N"
+    ],
+    "182": [
+        "Yangon Region",
+        "Pazundaung Township",
+        "96.1752\u0b00E",
+        "16.7771\u0b00N"
+    ],
+    "183": [
+        "Yangon Region",
+        "South Dagon Township ",
+        "98.7341358\u00b0E",
+        "11.1211172\u00b0N"
+    ],
+    "184": [
+        "Yangon Region",
+        "South Okkalapa Township",
+        "96.1792\u0b00E",
+        "16.8489\u0b00N" 
+    ],
+    "185": [
+        "Yangon Region",
+        "Thingangyun Township",
+        "96.2004\u0b00E",
+        "16.8248\u0b00N"
+    ],
+    "186": [
+        "Yangon Region",
+        "Hlaing Township",
+        "96.0443598\u00b0E",
+        "16.8721389\u00b0N"
+    ],
+    "187": [
+        "Yangon Region",
+        "Hlaingthaya Township",
+        "96.0573\u0b00E",
+        "16.8819\u0b00N"
+    ],
+    "188": [
+        "Yangon Region",
+        "Insein Township",
+        "96.0997\u0b00E",
+        "16.9042\u0b00N"
+    ],
+    "189": [
+        "Yangon Region",
+        "Kamayut Township",
+        "96.1236648\u00b0E",
+        "16.821741\u00b0N"
+    ],
+    "190": [
+        "Yangon Region",
+        "Mayangon Township",
+        "96.1474\u0b00E",
+        "16.8616\u0b00N"
+    ],
+    "191": [
+        "Yangon Region",
+        "Mingaladon Township",
+        "96.16099354494571\u00b0E",
+        "16.94228665\u00b0N"
+    ],
+    "192": [
+        "Yangon Region",
+        "Shwepyitha Township",
+        "98.5628677\u00b0E",
+        "10.0136017\u00b0N"
+    ],
+    "193": [
+        "Yangon Region",
+        "Yankin Township",
+        "96.17064239999999\u00b0E",
+        "16.8259485\u00b0N"
+    ],
+    "194": [
+        "Yangon Region",
+        "Dala Township",
+        "96.1739\u0b00E",
+        "16.6553\u0b00N"
+    ],
+    "195": [
+        "Yangon Region",
+        "Dawbon Township",
+        "96.1858\u0b00E",
+        "16.7827\u0b00N" 
+    ],
+    "196": [
+        "Yangon Region",
+        "Mingala Taungnyunt Township",
+        "96.1713\u0b00E",
+        "16.7875\u0b00N"
+    ],
+    "197": [
+        "Yangon Region",
+        "Seikkyi Kanaungto Township",
+        "96.1136\u0b00E",
+        "16.7576\u0b00N"
+    ],
+    "198": [
+        "Yangon Region",
+        "Tamwe Township",
+        "96.1751887\u00b0E",
+        "16.8028152\u00b0N"
+    ],
+    "199": [
+        "Yangon Region",
+        "Thaketa Township",
+        "96.21692175393395\u00b0E",
+        "16.8049532\u00b0N"
+    ],
+    "200": [
+        "Yangon Region",
+        "Ahlon Township",
+        "96.1288\u00b0E",
+        "16.7829\u00b0N"
+    ],
+    "201": [
+        "Yangon Region",
+        "Bahan Township",
+        "96.1687498627027\u00b0E",
+        "16.81183885\u00b0N"
+    ],
+    "202": [
+        "Yangon Region",
+        "Dagon Township",
+        "96.2178311\u00b0E",
+        "16.841556\u00b0N"
+    ],
+    "203": [
+        "Yangon Region",
+        "Kyauktada Township",
+        "96.1612337\u00b0E",
+        "16.7698739\u00b0N"
+    ],
+    "204": [
+        "Yangon Region",
+        "Kyimyindaing Township",
+        "96.1182\u00b0E",
+        "16.8067\u00b0N"
+    ],
+    "205": [
+        "Yangon Region",
+        "Lanmadaw Township",
+        "94.8207795\u00b0E",
+        "20.8940473\u00b0N"
+    ],
+    "206": [
+        "Yangon Region",
+        "Latha Township",
+        "96.1440639\u00b0E",
+        "16.7883177\u00b0N"
+    ],
+    "207": [
+        "Yangon Region",
+        "Pabedan Township",
+        "96.1574922\u00b0E",
+        "16.7793348\u00b0N"
+    ],
+    "208": [
+        "Yangon Region",
+        "Sanchaung Township",
+        "96.1314839\u00b0E",
+        "16.8038037\u00b0N"
+    ],
+    "209": [
+        "Yangon Region",
+        "Seikkan Township",
+        "96.3587074\u00b0E",
+        "16.9433473\u00b0N"
+    ],
+    "210": [
+        "Yangon Region",
+        "Cocokyun Township",
+        "93.622\u0b00E",
+        "14.8704\u0b00N"
+    ],
+    "211": [
+        "Yangon Region",
+        "Hlegu Township",
+        "96.31368317431819\u00b0E",
+        "17.14959425\u00b0N"
+    ],
+    "212": [
+        "Yangon Region",
+        "Hmawbi Township",
+        "96.0256\u0b00E",
+        "17.1533\u0b00N"
+    ],
+    "213": [
+        "Yangon Region",
+        "Htantabin Township",
+        "96.4877525\u00b0E",
+        "18.842371\u00b0N"
+    ],
+    "214": [
+        "Yangon Region",
+        "Kawhmu Township",
+        "96.0653\u0b00E",
+        "16.5382\u0b00N"
+    ],
+    "215": [
+        "Yangon Region",
+        "Kayan Township",
+        "96.9751728\u00b0E",
+        "19.6337389\u00b0N"
+    ],
+    "216": [
+        "Yangon Region",
+        "Kungyangon Township",
+        "96.0110\u0b00E",
+        "16.4386\u0b00N"
+    ],
+    "217": [
+        "Yangon Region",
+        "Kyauktan Township",
+        "95.6029721\u00b0E",
+        "19.1790349\u00b0N"
+    ],
+    "218": [
+        "Yangon Region",
+        "Taikkyi Township",
+        "95.8347491\u00b0E",
+        "17.5333928\u00b0N"
+    ],
+    "219": [
+        "Yangon Region",
+        "Thanlyin Township ",
+        "98.1575718\u00b0E",
+        "13.8355654\u00b0N"
+    ],
+    "220": [
+        "Yangon Region",
+        "Thongwa Township",
+        "96.5330\u0b00E",
+        "16.7646\u0b00N"
+    ],
+    "221": [
+        "Yangon Region",
+        "Twante Township",
+        "95.9410\u0b00E",
+        "16.7796\u0b00N"
+    ],
+    "222": [
+        "Kachin State",
+        "Bhamo Township",
+        "97.17682902845776\u00b0E",
+        "24.21310875\u00b0N"
+    ],
+    "223": [
+        "Kachin State",
+        "Shwegu Township",
+        "96.7874052\u00b0E",
+        "24.2278257\u00b0N"
+    ],
+    "224": [
+        "Kachin State",
+        "Momauk Township",
+        "97.3456239\u00b0E",
+        "24.2496398\u00b0N"
+    ],
+    "225": [
+        "Kachin State",
+        "Mansi Township",
+        "97.2951775\u00b0E",
+        "24.1202038\u00b0N"
+    ],
+    "226": [
+        "Kachin State",
+        "Mohnyin Township",
+        "96.373198\u00b0E",
+        "24.779057\u00b0N"
+    ],
+    "227": [
+        "Kachin State",
+        "Mogaung Township",
+        "96.9416995\u00b0E",
+        "25.3018588\u00b0N"
+    ],
+    "228": [
+        "Kachin State",
+        "Hpakant Township",
+        "96.3125388\u00b0E",
+        "25.6123483\u00b0N"
+    ],
+    "229": [
+        "Kachin State",
+        "Myitkyina Township",
+        "97.3999925\u00b0E",
+        "25.3833313\u00b0N"
+    ],
+    "230": [
+        "Kachin State",
+        "Waingmaw Township",
+        "97.6982\u0b00E",
+        "25.3667\u0b00N"
+    ],
+    "231": [
+        "Kachin State",
+        "Injangyang Township",
+        "97.728043\u00b0E",
+        "25.8303708\u00b0N"
+    ],
+    "232": [
+        "Kachin State",
+        "Tanai Township",
+        "96.7212432\u00b0E",
+        "26.3555615\u00b0N"
+    ],
+    "233": [
+        "Kachin State",
+        "Chipwi Township",
+        "98.1305242\u00b0E",
+        "25.885789\u00b0N"
+    ],
+    "234": [
+        "Kachin State",
+        "Hsawlaw Township",
+        "98.2711332\u00b0E",
+        "26.1537756\u00b0N"
+    ],
+    "235": [
+        "Kachin State",
+        "Putao Township",
+        "97.4173317\u00b0E",
+        "27.3097462\u00b0N"
+    ],
+    "236": [
+        "Kachin State",
+        "Sumprabum Township",
+        "97.5683626\u00b0E",
+        "26.5448191\u00b0N"
+    ],
+    "237": [
+        "Kachin State",
+        "Machanbaw Township",
+        "97.5895433\u00b0E",
+        "27.2821236\u00b0N"
+    ],
+    "238": [
+        "Kachin State",
+        "Kawnglanghpu Township",
+        "98.3599129\u00b0E",
+        "27.061073\u00b0N"
+    ],
+    "239": [
+        "Kachin State",
+        "Nogmung Township",
+        "97.8143815\u00b0E",
+        "27.5065429\u00b0N"
+    ],
+    "240": [
+        "Sagaing Region",
+        "Hkamti Township",
+        "95.6912728\u00b0E",
+        "26.0021393\u00b0N"
+    ],
+    "241": [
+        "Sagaing Region",
+        "Homalin Township",
+        "94.9168779\u00b0E",
+        "24.8688705\u00b0N"
+    ],
+    "242": [
+        "Sagaing Region",
+        "Lahe Township",
+        "95.4423223\u00b0E",
+        "26.3252881\u00b0N"
+    ],
+    "243": [
+        "Sagaing Region",
+        "Lay Shi Township ",
+        "94.9560249\u00b0E",
+        "25.4463832\u00b0N"
+    ],
+    "244": [
+        "Sagaing Region",
+        "Nanyun Township",
+        "96.1671674\u00b0E",
+        "26.9798882\u00b0N"
+    ],
+    "245": [
+        "Sagaing Region",
+        "Kale Township ",
+        "94.014583\u00b0E",
+        "23.1958442\u00b0N"
+    ],
+    "246": [
+        "Sagaing Region",
+        "Kalewa Township",
+        "94.3007869\u00b0E",
+        "23.1986756\u00b0N"
+    ],
+    "247": [
+        "Sagaing Region",
+        "Mingin Township",
+        "94.494197\u00b0E",
+        "22.877808\u00b0N"
+    ],
+    "248": [
+        "Sagaing Region",
+        "Banmauk Township",
+        "95.8562462\u00b0E",
+        "24.4010161\u00b0N"
+    ],
+    "249": [
+        "Sagaing Region",
+        "Indaw Township",
+        "96.1411781\u00b0E",
+        "24.2226633\u00b0N"
+    ],
+    "250": [
+        "Sagaing Region",
+        "Katha Township",
+        "96.3430992\u00b0E",
+        "24.1716852\u00b0N"
+    ],
+    "251": [
+        "Sagaing Region",
+        "Kawlin Township",
+        "95.6776956\u00b0E",
+        "23.7939666\u00b0N"
+    ],
+    "252": [
+        "Sagaing Region",
+        "Pinlebu Township",
+        "95.3811532\u00b0E",
+        "24.0904272\u00b0N"
+    ],
+    "253": [
+        "Sagaing Region",
+        "Tigyaing Township",
+        "96.1463674\u00b0E",
+        "23.7528084\u00b0N"
+    ],
+    "254": [
+        "Sagaing Region",
+        "Wuntho Township",
+        "95.6855946\u00b0E",
+        "23.8989024\u00b0N"
+    ],
+    "255": [
+        "Sagaing Region",
+        "Mawlaik Township",
+        "94.416667\u00b0E",
+        "23.633333\u00b0N"
+    ],
+    "256": [
+        "Sagaing Region",
+        "Paungbyin Township",
+        "94.82962633552835\u00b0E",
+        "24.1675822\u00b0N"
+    ],
+    "257": [
+        "Sagaing Region",
+        "Ayadaw Township",
+        "95.450677\u00b0E",
+        "22.28525\u00b0N"
+    ],
+    "258": [
+        "Sagaing Region",
+        "Budalin Township",
+        "95.1436405\u00b0E",
+        "22.3871145\u00b0N"
+    ],
+    "259": [
+        "Sagaing Region",
+        "Chaung-U Township",
+        "95.273628\u00b0E",
+        "21.95693\u00b0N"
+    ],
+    "260": [
+        "Sagaing Region",
+        "Kani Township",
+        "94.848469\u00b0E",
+        "22.43291\u00b0N"
+    ],
+    "261": [
+        "Sagaing Region",
+        "Monywa Township",
+        "95.1324747\u00b0E",
+        "22.1182175\u00b0N"
+    ],
+    "262": [
+        "Sagaing Region",
+        "Pale Township",
+        "94.874673\u00b0E",
+        "21.933992\u00b0N"
+    ],
+    "263": [
+        "Sagaing Region",
+        "Salingyi Township",
+        "95.0801873\u00b0E",
+        "21.9724628\u00b0N"
+    ],
+    "264": [
+        "Sagaing Region",
+        "Tabayin Township",
+        "95.321213\u00b0E",
+        "22.685286\u00b0N"
+    ],
+    "265": [
+        "Sagaing Region",
+        "Yinmabin Township",
+        "94.900139\u00b0E",
+        "22.077789\u00b0N"
+    ],
+    "266": [
+        "Sagaing Region",
+        "Myaung Township",
+        "95.42128\u00b0E",
+        "21.833411\u00b0N"
+    ],
+    "267": [
+        "Sagaing Region",
+        "Myinmu Township",
+        "95.575851\u00b0E",
+        "21.92514\u00b0N"
+    ],
+    "268": [
+        "Sagaing Region",
+        "Sagaing Township",
+        "95.9839956\u00b0E",
+        "21.8774215\u00b0N"
+    ],
+    "269": [
+        "Sagaing Region",
+        "Kanbalu Township",
+        "95.7023525254609\u00b0E",
+        "23.2851079\u00b0N"
+    ],
+    "270": [
+        "Sagaing Region",
+        "Khin-U Township",
+        "95.6217428\u00b0E",
+        "22.771583\u00b0N"
+    ],
+    "271": [
+        "Sagaing Region",
+        "Kyunhla Township",
+        "95.5315473\u00b0E",
+        "23.3173416\u00b0N"
+    ],
+    "272": [
+        "Sagaing Region",
+        "Shwebo Township",
+        "95.6999989\u00b0E",
+        "22.5666618\u00b0N"
+    ],
+    "273": [
+        "Sagaing Region",
+        "Taze Township",
+        "95.15768681089493\u00b0E",
+        "23.07870165\u00b0N"
+    ],
+    "274": [
+        "Sagaing Region",
+        "Wetlet Township",
+        "95.7880232\u00b0E",
+        "22.3680785\u00b0N"
+    ],
+    "275": [
+        "Sagaing Region",
+        "Ye-U Township",
+        "95.03007476076434\u00b0E",
+        "22.85732055\u00b0N"
+    ],
+    "276": [
+        "Sagaing Region",
+        "Tamu Township",
+        "94.3040852\u00b0E",
+        "24.2157468\u00b0N"
+    ],
+    "277": [
+        "Kayin State",
+        "Hpa-an Township",
+        "97.6362745\u00b0E",
+        "16.8902634\u00b0N"
+    ],
+    "278": [
+        "Kayin State",
+        "Hlaignbwe Township",
+        "97.819\u0b00E",
+        "17.1252\u0b00N"
+        
+    ],
+    "279": [
+        "Kayin State",
+        "Hpapun Township",
+        "97.444878\u00b0E",
+        "18.06496\u00b0N"
+    ],
+    "280": [
+        "Kayin State",
+        "Thandang Township",
+        "96.5826556\u0b00E",
+        "19.0217472\u0b00N"
+    ],
+    "281": [
+        "Kayin State",
+        "Kawkareik Township",
+        "98.23996\u00b0E",
+        "16.555531\u00b0N"
+    ],
+    "282": [
+        "Kayin State",
+        "Kyain Seikgyi Township",
+        "98.1209715\u00b0E",
+        "16.0413857\u00b0N"
+    ],
+    "283": [
+        "Kayin State",
+        "Myawaddy Township",
+        "98.507114\u00b0E",
+        "16.6871674\u00b0N"
+    ],
+    "284": [
+        "Mon State",
+        "Mawlamyine Township",
+        "97.6608006\u00b0E",
+        "16.3872999\u00b0N"
+    ],
+    "285": [
+        "Mon State",
+        "Kyaikmaraw Township",
+        "97.7250556\u00b0E",
+        "16.369119\u00b0N"
+    ],
+    "286": [
+        "Mon State",
+        "Chaungzon Township",
+        "97.45394231826796\u00b0E",
+        "16.3107372\u00b0N"
+    ],
+    "287": [
+        "Mon State",
+        "Thanbyuzayat Township",
+        "97.7278081\u00b0E",
+        "15.9690787\u00b0N"
+    ],
+    "288": [
+        "Mon State",
+        "Mudon Township",
+        "97.7292529\u00b0E",
+        "16.2558972\u00b0N"
+    ],
+    "289": [
+        "Mon State",
+        "Ye Township",
+        "97.7439065\u00b0E",
+        "15.9945511\u00b0N"
+    ],
+    "290": [
+        "Mon State",
+        "Thaton Township",
+        "97.3689718\u00b0E",
+        "16.9136941\u00b0N"
+    ],
+    "291": [
+        "Mon State",
+        "Paung Township",
+        "97.439756\u00b0E",
+        "16.6621036\u00b0N"
+    ],
+    "292": [
+        "Mon State",
+        "Kyaikto Township",
+        "97.0096713\u00b0E",
+        "17.3091636\u00b0N"
+    ],
+    "293": [
+        "Mon State",
+        "Bilin Township",
+        "97.2318618\u00b0E",
+        "17.2142678\u00b0N"
+    ],
+    "294": [
+        "Tanintharyi Region",
+        "Dawei Township",
+        "98.74428904197123\u00b0E",
+        "13.94718405\u00b0N"
+    ],
+    "295": [
+        "Tanintharyi Region",
+        "Launglon Township",
+        "98.1193776\u00b0E",
+        "13.976059\u00b0N"
+    ],
+    "296": [
+        "Tanintharyi Region",
+        "Thayetchaung Township",
+        "98.42172453844316\u00b0E",
+        "13.65614075\u00b0N"
+    ],
+    "297": [
+        "Tanintharyi Region",
+        "Yebyu Township",
+        "98.00139541796777\u00b0E",
+        "14.6360285\u00b0N"
+    ],
+    "298": [
+        "Tanintharyi Region",
+        "Bokpyin Township",
+        "98.31187089111083\u00b0E",
+        "11.219682500000001\u00b0N"
+    ],
+    "299": [
+        "Tanintharyi Region",
+        "Kawthoung Township",
+        "98.1244503094595\u00b0E",
+        "10.229016699999999\u00b0N"
+    ],
+    "300": [
+        "Tanintharyi Region",
+        "Kyunsu Township",
+        "98.09715379242738\u00b0E",
+        "12.1267742\u00b0N"
+    ],
+    "301": [
+        "Tanintharyi Region",
+        "Myeik Township",
+        "98.5955711\u00b0E",
+        "12.4319552\u00b0N"
+    ],
+    "302": [
+        "Tanintharyi Region",
+        "Palaw Township",
+        "98.19586714932767\u00b0E",
+        "13.1117748\u00b0N"
+    ],
+    "303": [
+        "Tanintharyi Region",
+        "Tanintharyi Township",
+        "98.9247417\u00b0E",
+        "12.2730581\u00b0N"
+    ],
+    "304": [
+        "Chin State",
+        "Falam Township",
+        "93.6790091\u00b0E",
+        "22.9139433\u00b0N"
+    ],
+    "305": [
+        "Chin State",
+        "Haka Township",
+        "93.6096217\u00b0E",
+        "22.6427551\u00b0N"
+    ],
+    "306": [
+        "Chin State",
+        "Htantlang Township",
+        "93.4278\u00b0E",
+        "22.69843\u00b0N"
+    ],
+    "307": [
+        "Chin State",
+        "Tiddim Township",
+        "93.655654\u00b0E",
+        "23.3717349\u00b0N"
+    ],
+    "308": [
+        "Chin State",
+        "Ton Zang Township",
+        "93.6923764\u00b0E",
+        "23.605598\u00b0N"
+    ],
+    "309": [
+        "Chin State",
+        "Hakha Township",
+        "93.6096217\u00b0E",
+        "22.6427551\u00b0N"
+    ],
+    "310": [
+        "Chin State",
+        "Mindat Township",
+        "93.973654\u00b0E",
+        "21.371757\u00b0N"
+    ],
+    "311": [
+        "Chin State",
+        "Matupi Township",
+        "93.444026\u00b0E",
+        "21.596511\u00b0N"
+    ],
+    "312": [
+        "Chin State",
+        "Kanpetlet Township",
+        "94.0586224\u00b0E",
+        "21.1933082\u00b0N"
+    ],
+    "313": [
+        "Chin State",
+        "Paletwa Township",
+        "92.8538238\u00b0E",
+        "21.3064037\u00b0N"
+    ],
+    "314": [
+        "Rakhine State",
+        "Kyaukpyu Township",
+        "93.5479844\u00b0E",
+        "19.4266675\u00b0N"
+    ],
+    "315": [
+        "Rakhine State",
+        "Manaung Township",
+        "93.63187888087697\u00b0E",
+        "18.7941078\u00b0N"
+    ],
+    "316": [
+        "Rakhine State",
+        "Ramree Township",
+        "93.8632293\u00b0E",
+        "19.091339\u00b0N"
+    ],
+    "317": [
+        "Rakhine State",
+        "Ann Township",
+        "94.0312875\u00b0E",
+        "19.7808466\u00b0N"
+    ],
+    "318": [
+        "Rakhine State",
+        "Maungdaw Township",
+        "92.3661178\u00b0E",
+        "20.8269243\u00b0N"
+    ],
+    "319": [
+        "Rakhine State",
+        "Buthidaung Township",
+        "92.5280099\u00b0E",
+        "20.8747257\u00b0N"
+    ],
+    "320": [
+        "Rakhine State",
+        "Sittwe Township",
+        "92.9\u00b0E",
+        "20.15\u00b0N"
+    ],
+    "321": [
+        "Rakhine State",
+        "Ponnagyun Township",
+        "93.004295\u00b0E",
+        "20.331985\u00b0N"
+    ],
+    "322": [
+        "Rakhine State",
+        "Mrauk-U Township",
+        "93.17012433699182\u00b0E",
+        "20.61451045\u00b0N"
+    ],
+    "323": [
+        "Rakhine State",
+        "Kyauktaw Township",
+        "92.97282\u00b0E",
+        "20.843957\u00b0N"
+    ],
+    "324": [
+        "Rakhine State",
+        "Minbya Township",
+        "93.27269\u00b0E",
+        "20.364523\u00b0N"
+    ],
+    "325": [
+        "Rakhine State",
+        "Myebon Township",
+        "93.373764\u00b0E",
+        "20.046762\u00b0N"
+    ],
+    "326": [
+        "Rakhine State",
+        "Pauktaw Township",
+        "93.0691395\u00b0E",
+        "20.1818024\u00b0N"
+    ],
+    "327": [
+        "Rakhine State",
+        "Rathedaung Township",
+        "92.754158\u00b0E",
+        "20.488342\u00b0N"
+    ],
+    "328": [
+        "Rakhine State",
+        "Thandwe Township",
+        "94.3668616\u00b0E",
+        "18.4664443\u00b0N"
+    ],
+    "329": [
+        "Rakhine State",
+        "Toungup Township",
+        "94.2387634\u00b0E",
+        "18.8548345\u00b0N"
+    ],
+    "330": [
+        "Rakhine State",
+        "Gwa Township",
+        "94.1336688\u00b0E",
+        "22.1750007\u00b0N"
+    ]
+}
